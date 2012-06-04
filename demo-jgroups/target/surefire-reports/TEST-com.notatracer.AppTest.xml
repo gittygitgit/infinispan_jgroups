@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.047" errors="0" skipped="0" tests="1" name="com.notatracer.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\dev\java\jdk1.6.0_19\jre\bin"/>
+    <property name="java.vm.version" value="16.2-b04"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 3"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\dev\workspaces\demo-jgroups"/>
+    <property name="java.runtime.version" value="1.6.0_19-b04"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\dev\workspaces\demo-jgroups"/>
+    <property name="java.endorsed.dirs" value="C:\dev\java\jdk1.6.0_19\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="surefire.real.class.path" value="C:\dev\workspaces\demo-jgroups\target\surefire\surefirebooter6990737644364088691.jar"/>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\MIKEGR~1\LOCALS~1\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows XP"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\dev\java\jdk1.6.0_19\jre\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;.;C:\dev\apache-maven-3.0.3\bin;C:\dev\tools\apache-ant-1.8.2-bin\bin;C:\dev\cygwin\usr\local\bin;C:\dev\cygwin\bin;C:\dev\cygwin\bin;C:\dev\java\jdk1.6.0_19\bin;C:\Program Files\Windows Resource Kits\Tools;C:\dev\python25;C:\dev\Ruby19\bin;C:\Program Files\ThinkPad\Utilities;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Intel\Wireless\Bin;C:\Program Files\PC-Doctor for Windows;C:\WINDOWS\Downloaded Program Files;C:\IBMTOOLS\Python22;C:\Program Files\QuickTime\QTSystem;C:\Program Files\Common Files\Adobe\AGL;C:\Program Files\e\cmd;C:\dev\Ruby19\bin;C:\Program Files\ThinkPad\Utilities;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Intel\Wireless\Bin;C:\Program Files\ATI Technologies\ATI Control Panel;C:\Program Files\PC-Doctor for Windows;C:\WINDOWS\Downloaded Program Files;C:\IBMTOOLS\Python22;C:\Program Files\QuickTime\QTSystem;C:\Program Files\Common Files\Adobe\AGL;C:\Program Files\e\cmd;C:\Program Files\MySQL\MySQL Server 5.1\bin;C:\dev\libs\jruby-1.5.1\bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\ATI ;C:\Program Files\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\DTS\Binn;C:\dev\libs\groovy-binary-1.8.2\bin;C:\dev\cygwin\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\dev\Sun\jwsdp-2.0\jwsdp-shared\bin;C:\Program Files\Google\google_appengine;C:\dev\cygwin\lib\lapack;C;C:\dev\apache-maven-2.2.1\bin;C:\dev\java\jdk1.6.0_19\bin;C:\dev\jboss\jboss-as-7.1.0.CR1-SNAPSHOT_node1\bin;C:\dev\groovy-1.8.2\bin;C:\dev\python_2_7_2;C:\Progra~1\TextPa~1\"/>
+    <property name="surefire.test.class.path" value="C:\dev\workspaces\demo-jgroups\target\test-classes;C:\dev\workspaces\demo-jgroups\target\classes;C:\users\mike\.m2\repository\org\jgroups\jgroups\3.0.1.Final\jgroups-3.0.1.Final.jar;C:\users\mike\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="5.1"/>
+    <property name="user.home" value="C:\Documents and Settings\Mike Grudkowski"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Mike Grudkowski"/>
+    <property name="java.class.path" value="C:\dev\workspaces\demo-jgroups\target\test-classes;C:\dev\workspaces\demo-jgroups\target\classes;C:\users\mike\.m2\repository\org\jgroups\jgroups\3.0.1.Final\jgroups-3.0.1.Final.jar;C:\users\mike\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\dev\java\jdk1.6.0_19\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_19"/>
+    <property name="java.ext.dirs" value="C:\dev\java\jdk1.6.0_19\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\dev\java\jdk1.6.0_19\jre\lib\resources.jar;C:\dev\java\jdk1.6.0_19\jre\lib\rt.jar;C:\dev\java\jdk1.6.0_19\jre\lib\sunrsasign.jar;C:\dev\java\jdk1.6.0_19\jre\lib\jsse.jar;C:\dev\java\jdk1.6.0_19\jre\lib\jce.jar;C:\dev\java\jdk1.6.0_19\jre\lib\charsets.jar;C:\dev\java\jdk1.6.0_19\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\users\mike\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="0.015" classname="com.notatracer.AppTest" name="testApp"/>
+</testsuite>

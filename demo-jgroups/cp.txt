@@ -1,0 +1,1 @@
+C:\users\mike\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\users\mike\.m2\repository\org\jgroups\jgroups\3.0.1.Final\jgroups-3.0.1.Final.jar
