@@ -1,0 +1,24 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/org/infinispan/infinispan-core/5.1.0.CR2/infinispan-core-5.1.0.CR2.jar" sourcepath="M2_REPO/org/infinispan/infinispan-core/5.1.0.CR2/infinispan-core-5.1.0.CR2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jboss/logging/jboss-logging/3.1.0.CR1/jboss-logging-3.1.0.CR1.jar" sourcepath="M2_REPO/org/jboss/logging/jboss-logging/3.1.0.CR1/jboss-logging-3.1.0.CR1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jboss/marshalling/jboss-marshalling/1.3.0.GA/jboss-marshalling-1.3.0.GA.jar" sourcepath="M2_REPO/org/jboss/marshalling/jboss-marshalling/1.3.0.GA/jboss-marshalling-1.3.0.GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jboss/marshalling/jboss-marshalling-river/1.3.0.GA/jboss-marshalling-river-1.3.0.GA.jar" sourcepath="M2_REPO/org/jboss/marshalling/jboss-marshalling-river/1.3.0.GA/jboss-marshalling-river-1.3.0.GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jboss/javaee/jboss-transaction-api/1.0.1.GA/jboss-transaction-api-1.0.1.GA.jar" sourcepath="M2_REPO/org/jboss/javaee/jboss-transaction-api/1.0.1.GA/jboss-transaction-api-1.0.1.GA-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/users/mike/.m2/repository/org/jboss/javaee/jboss-transaction-api/1.0.1.GA/jboss-transaction-api-1.0.1.GA-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/jgroups/jgroups/3.0.1.Final/jgroups-3.0.1.Final.jar" sourcepath="M2_REPO/org/jgroups/jgroups/3.0.1.Final/jgroups-3.0.1.Final-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/rhq/helpers/rhq-pluginAnnotations/3.0.4/rhq-pluginAnnotations-3.0.4.jar" sourcepath="M2_REPO/org/rhq/helpers/rhq-pluginAnnotations/3.0.4/rhq-pluginAnnotations-3.0.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/users/mike/.m2/repository/org/rhq/helpers/rhq-pluginAnnotations/3.0.4/rhq-pluginAnnotations-3.0.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.1/stax2-api-3.1.1.jar" sourcepath="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.1/stax2-api-3.1.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jboss/staxmapper/1.0.0.Final/staxmapper-1.0.0.Final.jar" sourcepath="M2_REPO/org/jboss/staxmapper/1.0.0.Final/staxmapper-1.0.0.Final-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/woodstox-core-asl/4.1.1/woodstox-core-asl-4.1.1.jar" sourcepath="M2_REPO/org/codehaus/woodstox/woodstox-core-asl/4.1.1/woodstox-core-asl-4.1.1-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+</classpath>
